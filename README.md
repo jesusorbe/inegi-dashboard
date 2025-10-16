@@ -5,7 +5,7 @@ App muy simple para consultar y graficar series del BIE de **INEGI**:
 - UI **Dash** en `/dashboard/`
 - Gráfica con **Plotly** y manejo de datos con **Pandas**
 
-> Demo local: http://localhost:8050/dashboard/
+> Demo local: http://localhost:8050/
 
 ---
 
